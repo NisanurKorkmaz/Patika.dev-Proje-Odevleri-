@@ -1,3 +1,4 @@
+# SORU 1 :
 
 l = [[1,'a',['cat'],2],[[[3]],'dog'],[4,5]]
 
@@ -11,3 +12,6 @@ for sublist in l:
 
     
 print(new_list)
+
+#SORU 2 
+
